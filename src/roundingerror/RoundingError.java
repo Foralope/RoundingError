@@ -19,7 +19,6 @@ public class RoundingError {
         //Variables.
         int userInput = 0;
         double forRounding = 0;
-        double forRounding_1 = 0;
         double compare = 0;
         //Make sure the user actually inputs an integer to have it not crash my program.
         try {
